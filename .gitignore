@@ -8,6 +8,8 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
-config.json
+actual_config.json
 
 # Ignoring the build folder
+
+build

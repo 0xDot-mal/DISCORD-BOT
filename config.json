@@ -1,5 +1,5 @@
 {
-    "token": "your_bot_token",
-    "guild_id": "guild_id",
-    "app_id": "app_id"
+    "token": "your_app_token",
+    "guild_id": "your_gild_id",
+    "app_id": "your_app_id"
 }

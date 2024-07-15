@@ -1,8 +1,8 @@
 {
   "name": "grass-bot",
-  "version": "1.0.0",
+  "version": "1.0.9",
   "description": "null",
-  "main": "src/index.js",
+  "main": "src/index.jsx",
   "scripts": {
     "test": "ping pong"
   },
